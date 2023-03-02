@@ -10,3 +10,49 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+#trafficTop{
+    height: 80px;
+    width: 5px;
+    background-color: black;
+    margin: auto;
+
+}
+#container{
+    width: 40px ;
+    height: 120px;
+    background-color: black;
+    margin: auto;
+}
+.red{
+    
+    background-color: red;
+    width: 30px;
+    height: 35px;
+    margin: auto;
+    border-radius: 30rem;
+}
+.yellow{
+    background-color: yellow;
+    width: 30px;
+    height: 35px;
+    margin: 4px auto;
+    border-radius: 30rem;
+}
+.green{
+    background-color: green;
+    width: 30px;
+    height: 35px;
+    margin: auto;
+    border-radius: 30rem;
+}
+.brillo{
+    -webkit-box-shadow: -4px 0px 16px 31px rgba(86,87,84,0.26); 
+    box-shadow: -4px 0px 16px 31px rgba(86,87,84,0.26);
+}
+.selected{
+    
+        -webkit-box-shadow: -4px 0px 16px 31px rgba(86,87,84,0.26); 
+        box-shadow: -4px 0px 16px 31px rgba(86,87,84,0.26);
+    
+}
